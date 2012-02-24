@@ -1,0 +1,5 @@
+#Software: Microsoft Internet Information Services 6.0
+#Version: 1.0
+#Date: 2012-02-17 21:00:00
+#Fields: date time c-ip cs-username s-computername cs-method cs-uri-query sc-status 
+2012-02-17 21:00:00 10.1.125.81 - TK2IPSSMTPA01 QUIT - 240
