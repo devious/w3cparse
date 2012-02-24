@@ -1,15 +1,21 @@
 /**********************************************************************
- * file: core.cc                                                      *
+ * file: logitem.cc                                                   *
  * author: kyle isom <coder@kyleisom.net>                             *
  * license: ISC / public domain                                       *
  *                                                                    *
- * parse w3c log files.                                               *
+ * Class representation of log items.                                 *
  **********************************************************************/
 
-#include <iostream>
-#include <logitem>
 
-using namespace std;
+#ifndef __LOGITEM_H
+#define __LOGITEM_H
 
-static void readFile(char *fileName) { }
+namespace w3cparse {
+
+    class LogItem {
+        public:
+            
+        private:
+    };
+}   // end namespace w3cparse
 
